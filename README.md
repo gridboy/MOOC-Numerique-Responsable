@@ -2,7 +2,7 @@
 Référencement des MOOCs et supports de cours (gratuits) pour un numérique plus responsable
 
 ## Numérique Responsable
-### INR - Académie NR
+### INR (Institut du Numérique Responsable) - Académie NR
 Face à l’urgence climatique et l’empreinte environnementale conséquente du numérique, et l’impératif de repenser le numérique pour qu’il soit porteur de valeurs plus inclusives et éthiques pour les femmes et les hommes de notre société, l’INR et ses partenaires proposent un MOOC sur le numérique responsable pour permettre à toutes et tous de s’informer et se former.
 
 #### Sensibilisation au Numérique Responsable de l'INR 
