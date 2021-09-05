@@ -20,8 +20,8 @@ https://metropoleposition.fr/agir-pour-un-numerique-responsable/
  	
 ## Enjeux Environnementaux
 
-### Les ODD c’est pas compliqué	
-Concilier engagements et performance économique, c’est possible, c’est même une source d’opportunités et c’est une nécessité pour que votre performance soit durable. Découvrez de façon simple et ludique au travers de 7 courtes saynètes vidéo les liens forts existants entre vos enjeux business et les ODD (Objectifs de Développement Durable).
+### Les ODD (Objectifs de Développement Durable) c’est pas compliqué	
+Concilier engagements et performance économique, c’est possible, c’est même une source d’opportunités et c’est une nécessité pour que votre performance soit durable. Découvrez de façon simple et ludique grace à 7 petites vidéos les liens forts existants entre vos enjeux business et les ODD.
 https://www.bpifrance-universite.fr/formations/responsabilite-societale-des-entreprises/les-odd-cest-pas-complique-tpe-pme-osez-la-rse-pour-une-croissance-durable/
 
 ### Causes et enjeux du changement climatique	
