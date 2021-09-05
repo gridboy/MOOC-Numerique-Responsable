@@ -11,8 +11,8 @@ https://www.academie-nr.org/sensibilisation/#/
 #### Cours complet
 https://www.academie-nr.org/#mooc-nr
 
-### iNRIA - Impacts Numériques	
-L'inria nous propose une série de fiches pédagogique pour compres quels sont les impacts générés par le numérique	
+### INRIA - Impacts Numériques	
+L'inria nous propose une série de fiches pédagogique pour compres quels sont les impacts générés par le numérique
 https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html
 
 ###  Metropole Rouen - Agir pour un numérique responsable
